@@ -1,2 +1,2 @@
 # wilsonsite
-A bun-svelte website thing
+A svelte website thing
